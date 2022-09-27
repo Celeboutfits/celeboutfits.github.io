@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://celeboutfits.github.io/sitemap.xml
